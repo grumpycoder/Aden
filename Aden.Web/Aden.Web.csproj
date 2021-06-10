@@ -423,7 +423,6 @@
     <Content Include="js\vendor-bundle.min.js">
       <DependentUpon>vendor-bundle.js</DependentUpon>
     </Content>
-    <Content Include="libman.json" />
     <Content Include="package.json" />
     <Content Include="css\fonts\Roboto-300.ttf" />
     <Content Include="css\fonts\Roboto-300.woff" />
