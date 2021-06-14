@@ -357,6 +357,8 @@
     <Content Include="css\vendor-bundle.min.css">
       <DependentUpon>vendor-bundle.css</DependentUpon>
     </Content>
+    <Content Include="errors\404.html" />
+    <Content Include="errors\500.html" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="Global.asax" />
